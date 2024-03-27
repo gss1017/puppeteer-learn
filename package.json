@@ -9,6 +9,9 @@
   "keywords": [
     "puppeteer"
   ],
+  "engines": {
+    "node": ">=18"
+  },
   "author": "gss",
   "license": "ISC"
 }
